@@ -20,6 +20,10 @@ const routes = [
     children: [
       {
         path: "",
+        component: () => import("src/pages/LandingPage.vue"),
+      },
+      {
+        path: "/resources",
         component: () => import("pages/FindPage.vue"),
       },
       {

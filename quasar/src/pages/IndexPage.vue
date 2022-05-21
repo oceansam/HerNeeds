@@ -6,6 +6,7 @@
       <q-btn to="/signup" label="Go to sign up Page" />
       <q-btn to="/search" label="Go to search Page" />
       <q-btn to="/map" label="Go to Map Page" />
+      <q-btn to="/resources" label="Go to Resource Page" />
     </div>
   </q-page>
 </template>
