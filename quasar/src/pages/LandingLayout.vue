@@ -13,9 +13,27 @@
             </q-toolbar>
         </q-header>
         <router-view/>
+        <our-mission/>
+        <our-team/>
     </q-layout>
+    
+
 </template>
 
 <style scoped>
-    
+    body{
+        background-color: #F6E8E8;
+    }
 </style>
+
+<script>
+import { defineComponent } from "vue";
+import OurMission from '../pages/OurMission.vue';
+import OurTeam from '../pages/OurTeam.vue';
+
+export default defineComponent({
+  name: "LandingLayout",
+  components: {OurMission, OurTeam}
+});
+</script>
+
