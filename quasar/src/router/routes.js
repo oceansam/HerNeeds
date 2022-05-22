@@ -15,13 +15,19 @@ const routes = [
     ],
   },
   {
-    path: "/search",
-    component: () => import("layouts/SearchLayout.vue"),
+    path: "/landing",
+    component: () => import("layouts/LandingLayout.vue"),
     children: [
       {
         path: "",
         component: () => import("src/pages/LandingPage.vue"),
-      },
+      }
+    ]
+  },
+  {
+    path: "/search",
+    component: () => import("layouts/SearchLayout.vue"),
+    children: [
       {
         path: "/resources",
         component: () => import("pages/FindPage.vue"),
