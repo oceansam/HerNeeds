@@ -2,13 +2,6 @@
   <div class="mission-container" id="our-mission">
     <div class="row">
       <div class="space"></div>
-      <!-- <div class="col q-pl-xl gt-sm">
-        <img
-          class="q-pl-sm"
-          src="https://cdn.discordapp.com/attachments/976618477282537506/977729781615452230/Hands_-_Give.png"
-          width="450"
-        />
-      </div> -->
       <div class="col q-pr-xl">
         <div class="text-bold text-white q-pb-sm" style="font-size: 8rem">
           Did you know?

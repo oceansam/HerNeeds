@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lHh lpr fFf">
     <q-header class="bg-white text-black">
-      <q-toolbar style="width: 25%" class="row items-center q-pa-md">
+      <q-toolbar style="width: 27%" class="row items-center q-pa-md">
         <q-toolbar-title>
           <q-icon name="spa" size="4rem" color="primary" />
         </q-toolbar-title>
