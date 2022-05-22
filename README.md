@@ -12,11 +12,7 @@
 ** **
 
 ![image](https://user-images.githubusercontent.com/70068533/169707433-08925a74-3f66-4494-8a02-227162ae3404.png)
-
-** **
-
-![image](https://user-images.githubusercontent.com/70068533/169709846-368fdadd-2be9-41c2-ac2f-a0b70f74e7e3.png)
-
+ 
 ** **
 
 # ✨ Come explore our site ✨ 
