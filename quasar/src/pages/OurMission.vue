@@ -7,7 +7,7 @@
             </div>  
             <div class="col q-pr-xl">
                 <div class="text-h3 q-pb-sm" style="font-weight:600;" >Did you know ...</div>
-                <div class="text-h6 q-pb-sm" style="font-weight:600;" ><br><br>
+                <div class="text-h5 q-pb-sm" style="font-weight:600;" ><br><br><br>
                     According to the organization <i>Days for Girls</i>, over 500 million women are<br>
                     experiencing some form of period poverty which is the lack of access to menstrual  
                     products. This is because most feminine hygiene products are too expensive for the  
@@ -17,10 +17,11 @@
                     general are overpriced.
                 </div>
             </div>
-        </div>
-
+        </div><br><br><br>
         <div class="text-h4 q-pb-sm" style="font-weight:600; text-align: center;" >
         Our mission is to help women find affordable and environmentally <br>friendly menstrual products in times of need.</div>
+
+        
 
        
     </div>
