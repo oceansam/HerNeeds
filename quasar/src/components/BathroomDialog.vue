@@ -118,10 +118,8 @@ export default {
       onDialogHide,
       addVote,
       onOKClick() {
-        const { lat, lng } = { lat: 43.57185, lng: -79.642853 };
         var point = props.bathroom.position;
-        window.location = `https://www.google.com/maps/dir/?api=1&origin=${lat},${lng}&destination=${point.lat},${point.lng}&travelmode=walking`;
-        // window.location = `https://www.google.com/maps/dir/?api=1&origin=${locationCenter.value.lat},${locationCenter.value.lng}&destination=${point.lat},${point.lng}&travelmode=walking`;
+        window.location = `https://www.google.com/maps/dir/?api=1&origin=${locationCenter.value.lat},${locationCenter.value.lng}&destination=${point.lat},${point.lng}&travelmode=walking`;
       },
 
       // we can passthrough onDialogCancel directly

@@ -3,14 +3,14 @@
     api-key="AIzaSyDHjism3qUSMwRuCSjKAwFhrJ9IqCzxDTg"
     style="width: 100%; height: 100vh"
     :styles="mapStyle"
-    :center="{ lat: 43.57185, lng: -79.642853 } || location"
+    :center="location"
     :streetViewControl="false"
     :mapTypeControl="false"
     :zoom="12"
   >
     <CustomMarker
       :options="{
-        position: { lat: 43.57185, lng: -79.642853 } || location,
+        position: location,
         anchorPoint: 'BOTTOM_CENTER',
       }"
     >
@@ -62,11 +62,12 @@ export default {
   setup() {
     // Quasar
     const $q = useQuasar();
-
+    // SUBSTITUTE THIS FOR CENTER ATTRIBUTE AND FIRST CUSTOM MARKER IF U DEMO
+    // const testLocation = { lat: 43.57185, lng: -79.642853 }
     // Location
     const location = ref({
-      lat: 43.658298,
-      lng: -79.380783,
+      lat: 43.57185,
+      lng: -79.642853,
     });
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition((position) => {
