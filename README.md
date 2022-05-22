@@ -23,11 +23,11 @@
 
 ### Website: https://devpost.com/software/qrvsp
 
-### Submisstion:
+### Submisstion: https://devpost.com/software/qrvsp
 
 ** **
 
-# 🍀Authors
+# 🍃 Authors 🍃
 
 | Samee Chowdhury (Fullstack) | Darren Tam (Backend) | Kara Huynh (Frontend) | Akshara Debnath (Frontend) |
 | :-------------------------: | :------------------: | :-------------------: | :------------------------: |
