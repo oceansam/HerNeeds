@@ -28,27 +28,7 @@ Submisstion:
 
 # 🍀Authors
 
-### Samee Chowdhury (Fullstack)
-linkedin: https://www.linkedin.com/in/samee-chowdhury/
-
-github: https://github.com/oceansam
-
-
-### Darren Tam (Backend)
-linkedin: https://www.linkedin.com/in/darrentam1/
-
-github: 
-
-
-### Kara Huynh (Frontend)
-linkedin: https://www.linkedin.com/in/kara-huynh/
-
-github: https://github.com/KaraHuynh
-
-
-### Akshara Debnath (Frontend)
-linkedin: https://www.linkedin.com/in/akshara-debnath/
-
-github: https://github.com/akshxrx
-
-
+| Samee Chowdhury (Fullstack) | Darren Tam (Backend) | Kara Huynh (Frontend) | Akshara Debnath (Frontend) |
+| --------------------------- | ------------- | ------------- | ------------- |
+| [linkedin](https://www.linkedin.com/in/samee-chowdhury/) | [linkedin](https://www.linkedin.com/in/darrentam1/) | [linkedin](https://www.linkedin.com/in/kara-huynh/) | [linkedin](https://www.linkedin.com/in/akshara-debnath/) |
+| [github](https://github.com/oceansam) | [github](https://github.com/KaraHuynh | [github](https://github.com/KaraHuynh) | [github](https://github.com/akshxrx) |
