@@ -2,7 +2,8 @@ const routes = [
   {
     path: "/",
     component: () => import("pages/LandingLayout.vue"),
-    children: [{ path: "", component: () => import("pages/LandingPage.vue") }],
+    children: [{ path: "", 
+    component: () => import("pages/LandingPage.vue") }],
   },
   {
     path: "/resources",
@@ -18,6 +19,10 @@ const routes = [
     path: "/:catchAll(.*)*",
     component: () => import("pages/ErrorNotFound.vue"),
   },
+  {
+    path: "/:catchAll(.*)*",
+    component: () => import("pages/ErrorNotFound.vue"),
+  }
 ];
 
 export default routes;

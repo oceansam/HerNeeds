@@ -2,9 +2,9 @@
   <q-layout view="lHh lpr fFf">
       <q-header elevated class="bg-primary text-black">
           <q-toolbar class="q-pa-md">
-              <q-btn flat style="color: bg-primary" class="">Home</q-btn>
-              <q-btn flat style="color: bg-primary" class="">Map</q-btn>
-              <q-btn flat style="color: bg-primary" class="">Our Team</q-btn>
+              <q-btn to="/" flat style="color: bg-primary" class="">Home</q-btn>
+              <q-btn to="/Map" flat style="color: bg-primary" class="">Map</q-btn>
+              <q-btn to="/" flat style="color: bg-primary" class="">Our Team</q-btn>
           </q-toolbar>
       </q-header>
     <div class="row q-pa-xl q-mt-xl">

@@ -1,5 +1,5 @@
 <template>
-  <google-map-products :bathrooms="bathroomList" />
+   <google-map-products :bathrooms="bathroomList" />
 </template>
 
 <script>

@@ -141,4 +141,7 @@ export default {
     width: 130px;
   }
 }
+.top{
+  margin-right:0em;
+}
 </style>

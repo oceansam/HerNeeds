@@ -19,6 +19,7 @@
           text-color="black"
           size="xl"
           label="Find Products"
+          to="/Resources"
         />
         <q-btn
           class="landing-button q-ml-xl"
@@ -27,6 +28,7 @@
           text-color="white"
           size="xl"
           label="Find Locations"
+          to="/Map"
         />
       </div>
       <div class="col gt-sm q-pl-xl" id="image">
