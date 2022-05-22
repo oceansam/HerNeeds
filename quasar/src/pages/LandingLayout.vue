@@ -6,7 +6,7 @@
           <q-icon name="spa" size="4rem" color="primary" />
         </q-toolbar-title>
         <div class="q-mr-md">
-          <q-btn flat style="color: bg-primary" class="text-sm" to="#/"
+          <q-btn flat style="color: bg-primary" class="text-sm" to="#home"
             >Home</q-btn
           >
           <q-btn

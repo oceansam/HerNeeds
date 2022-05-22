@@ -1,5 +1,5 @@
 <template>
-  <div class="mission-container" id="our-mission">
+  <div class="mission-container" >
     <div class="row">
       <div class="space"></div>
       <div class="col q-pr-xl">

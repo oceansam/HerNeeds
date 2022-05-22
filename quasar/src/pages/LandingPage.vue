@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="row landing-container items-center">
+    <div class="row landing-container items-center" id="home">
       <div class="space" id="/"></div>
       <div class="landing-body col q-pl-xl">
         <div class="text-title text-bold q-pb-sm">Affordable Resources.</div>
@@ -38,7 +38,7 @@
 
     <svg
       style="margin-bottom: -0.5em"
-      id="wave1"
+      id="our-mission"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 1440 320"
     >
