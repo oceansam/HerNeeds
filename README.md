@@ -24,7 +24,7 @@
 # ✨ Come explore our site ✨ 
 
 
-### Website: https://devpost.com/software/qrvsp**** 
+### Website: https://herneeds-b5e8c.web.app/
 
 ### Submission: https://devpost.com/software/herneeds
 
