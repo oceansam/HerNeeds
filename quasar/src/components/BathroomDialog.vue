@@ -51,7 +51,7 @@
             "
             label="Get Directions"
             @click="onOKClick"
-            color="secondary"
+            color="primary"
             no-caps
           />
           <q-btn

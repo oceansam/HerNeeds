@@ -58,7 +58,7 @@
             "
             label="Confirm"
             type="submit"
-            color="secondary"
+            color="primary"
             @click="onOKClick"
             no-caps
           />
@@ -141,7 +141,7 @@ export default {
     width: 130px;
   }
 }
-.top{
-  margin-right:0em;
+.top {
+  margin-right: 0em;
 }
 </style>
