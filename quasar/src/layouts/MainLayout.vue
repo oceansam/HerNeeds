@@ -11,7 +11,8 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> Quasar App </q-toolbar-title>
+        <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+        <q-toolbar-title> Her Need </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
