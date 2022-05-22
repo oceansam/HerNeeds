@@ -12,7 +12,7 @@
         />
 
         <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-        <q-toolbar-title> Her Need </q-toolbar-title>
+        <q-toolbar-title> Her Needs </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>

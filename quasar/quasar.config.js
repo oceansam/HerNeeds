@@ -144,8 +144,8 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `Her Need`,
-        short_name: `Her Need`,
+        name: `Her Needs`,
+        short_name: `Her Needs`,
         description: `A Quasar Project`,
         display: "standalone",
         orientation: "portrait",
