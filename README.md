@@ -7,6 +7,8 @@
 
 ### Our app scrapes the web to find washrooms with available menstraul products. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money for other needs.
 
+## Always prepared for her needs!
+
 ## 
 
 ![image](https://user-images.githubusercontent.com/70068533/169707244-e2487c6b-a56f-43b4-a397-25129ef49951.png)
