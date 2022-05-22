@@ -19,14 +19,7 @@
               </q-item>
             </q-list>
           </q-card>
-          <q-card class="q-pa-lg width">
-            <div class="text-center text-bold q-pb-md font">Size</div>
-            <div class="row justify-center q-gutter-md">
-              <div v-for="(size, i) in sizes" :key="i">
-                {{ size }}
-              </div>
-            </div>
-          </q-card>
+
           <q-card class="q-pa-lg width" >
             <div class="text-center text-bold font">Price</div>
             <q-slider
@@ -103,16 +96,11 @@ export default {
       { title: "Comfort Products", count: "30" },
     ];
 
-    const brands = [
-      { title: "Sustainable", state: true },
-      { title: "Non-Sustainable", state: false },
-    ];
-
     const clothes = [
       {
         sold: "-20%",
         trending: "TRENDING",
-        image: "1.png",
+        image: "../public/1.png",
         title: "Beauty Heros - $37.23",
       },
       {
