@@ -1,1 +1,34 @@
 // app global css in SCSS form
+
+@media (max-width: $breakpoint-sm-max) {
+  html,
+  body {
+    font-size: 13px;
+  }
+}
+@media (max-width: $breakpoint-xs-max) {
+  html,
+  body {
+    font-size: 11px;
+  }
+}
+.text {
+  &-xs {
+    font-size: 1rem;
+  }
+  &-sm {
+    font-size: 1.25rem;
+  }
+  &-md {
+    font-size: 1.5rem;
+  }
+  &-lg {
+    font-size: 2rem;
+  }
+  &-xl {
+    font-size: 2.2rem;
+  }
+  &-button {
+    font-size: 1.35rem;
+  }
+}

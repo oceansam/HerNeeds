@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "quasar/dist/spa",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
