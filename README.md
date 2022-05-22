@@ -15,10 +15,6 @@
 
 ** **
 
-![image](https://user-images.githubusercontent.com/70068533/169707457-214219f7-fd6e-42ab-9edd-b9fc23e20594.png)
-
-** **
-
 # ✨ Come explore our site ✨ 
 
 ### Website:
