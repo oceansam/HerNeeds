@@ -2,7 +2,8 @@
 
 ** **
 
-### 😔 Are tired of panicking because you forget to bring a pad? 🤔 or over expensive menstraul product?
+### 😔 Are tired of panicking because you forget to bring a pad? 
+### 🤔 or over expensive menstraul product?
 
 ### Our app scrapes the web to find washrooms with available menstraul products. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money for other needs.
 
@@ -20,9 +21,9 @@
 
 # ✨ Come explore our site ✨ 
 
-Website:
+### Website:
 
-Submisstion:
+### Submisstion:
 
 ** **
 
