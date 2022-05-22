@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="row landing-container">
+    <div class="row landing-container items-center">
       <div class="space" id="/"></div>
       <div class="landing-body col q-pl-xl">
         <div class="text-title text-bold q-pb-sm">Affordable Resources.</div>
@@ -31,11 +31,8 @@
           />
         </div>
       </div>
-      <div class="col gt-sm q-pl-xl" id="image">
-        <q-img
-          src="https://cdn.discordapp.com/attachments/977624874992410724/977723087221055548/Cool_Kids_-_Brainstorming.png"
-          width="550"
-        />
+      <div class="col q-pl-xl" id="image">
+        <q-img src="../assets/Landing.jpg" style="width: 500px" />
       </div>
     </div>
 
@@ -66,7 +63,7 @@ export default {
 </script>
 <style scoped>
 .landing-container {
-  margin-top: 15%;
+  margin-top: 10%;
   width: 100%;
 }
 
