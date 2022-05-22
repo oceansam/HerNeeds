@@ -31,7 +31,6 @@
 
 | Samee Chowdhury (Fullstack) | Darren Tam (Backend) | Kara Huynh (Frontend) | Akshara Debnath (Frontend) |
 | --------------------------- | ------------- | ------------- | ------------- |
-| [linkedin](https://www.linkedin.com/in/samee-chowdhury/) | [linkedin](https://www.linkedin.com/in/darrentam1/) | [linkedin](https://www.linkedin.com/in/kara-huynh/) | [linkedin](https://www.linkedin.com/in/akshara-debnath/) |
+|   [linkedin](https://www.linkedin.com/in/samee-chowdhury/)   | [linkedin](https://www.linkedin.com/in/darrentam1/) | [linkedin](https://www.linkedin.com/in/kara-huynh/) | [linkedin](https://www.linkedin.com/in/akshara-debnath/) |
 | [github](https://github.com/oceansam) | [github](https://github.com/KaraHuynh) | [github](https://github.com/KaraHuynh) | [github](https://github.com/akshxrx) |
-| --------------------------- | ------------- | ------------- | ------------- |
 
