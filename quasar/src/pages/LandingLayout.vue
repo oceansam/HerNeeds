@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lHh lpr fFf">
     <q-header elevated style="height: 5em" class="bg-primary text-black">
-      <q-toolbar style="width: 25%">
+      <q-toolbar style="width: 20%">
         <q-toolbar-title>
           <img
             class="clickable q-mt-sm gt-sm"

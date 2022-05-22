@@ -1,5 +1,5 @@
 <template>
-  <div class="our-team-container">
+  <div class="our-team-container pad">
     <svg id="wave2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
       <path
         fill="#F0CFCF"
@@ -26,8 +26,10 @@
           />
         </a>
       </div>
+      
     </div>
   </div>
+
 </template>
 
 <style lang="scss" scoped>
@@ -47,6 +49,10 @@
   height: 400px;
   background-color: #f0cfcf;
   border-radius: 50%;
+}
+
+.pad{
+  padding-bottom: 12em;
 }
 </style>
 

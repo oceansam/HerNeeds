@@ -39,7 +39,7 @@
       </div>
     </div>
 
-    <svg id="wave1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+    <svg style="margin-bottom:-0.4em;" id="wave1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
       <path
         fill="#F0CFCF"
         fill-opacity="1"
@@ -65,9 +65,6 @@ export default {
   width: 100%;
 }
 
-#wave1 {
-  padding-top: 5%;
-}
 
 .space {
   width: 10%;
