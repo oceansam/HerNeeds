@@ -5,7 +5,7 @@
 ### 😔 Are tired of panicking because you forget to bring a pad? 
 ### 🤔 or over expensive menstraul product?
 
-### Our app scrapes the web to find washrooms with available menstraul products for women on the go. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money for other needs. **Always prepared for her needs!**
+### Our app scrapes the web to find washrooms with available menstraul products for women on the go. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money for other needs. *Always prepared for her needs!*
 
 ## 
 
