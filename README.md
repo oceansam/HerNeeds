@@ -2,10 +2,10 @@
 
 ** **
 
-### 😔 Are tired of panicking because you forget to bring a pad? 
-### 🤔 or over expensive menstraul product?
+### 😔 Are you tired of panicking because you forgot to bring a pad? 
+### 🤔 or stressing over expensive menstrual products?
 
-### Our app scrapes the web to find washrooms with available menstraul products for women on the go. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money. *Always prepared for her needs!*
+### Our app scrapes the web to find washrooms with available menstrual products for women on the go. So you don't have to worry again. We also find the most affordable and sustainable products. So you can save your money. *Always prepared for her needs!*
 
 ## 
 
@@ -20,9 +20,9 @@
 # ✨ Come explore our site ✨ 
 
 
-### Website: https://devpost.com/software/qrvsp
+### Website: https://devpost.com/software/qrvsp**** 
 
-### Submisstion: https://devpost.com/software/qrvsp
+### Submission: https://devpost.com/software/herneeds
 
 ** **
 
