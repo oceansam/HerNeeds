@@ -2,7 +2,7 @@
 
 ** **
 
-## 🥇 First place overall in Gryph Hacks 2022 :1st_place_medal:
+## 🥇 First place overall in Gryph Hacks 2022 🥇
 
 ** **
 
